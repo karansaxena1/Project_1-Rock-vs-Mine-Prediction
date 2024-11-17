@@ -2,12 +2,10 @@
 
 ![RvsM](https://github.com/user-attachments/assets/f374b373-a511-46b9-b89f-1fddd2ba5e20) 
 
-
-This is a Machine Learning Project that categorizes objects into rocks or mines using the data from reflected sonar signals. It makes use of features based on datasets, derived f
-rom sonar signals, bounced from various surfaces. The most important elements in it are as follows:
+This project aims to develop a machine learning model capable of accurately distinguishing between rocks and mines using sonar data collected by submarines. By employing advanced techniques in machine learning and data analysis, we aim to create a reliable and efficient system for detecting and classifying underwater objects.
 
 ## Dataset: 
-Features refer to the properties of the sonar signal whereas the target variable refers to a rock or mine.
+The dataset used in this project consists of sonar signals collected by submarines. These signals are represented as numerical arrays, each containing 60 values. Each value in the array represents the intensity of the sonar signal at a specific angle.
 
 ## Pre-processing: 
 It primarily involves data cleaning and normalization technique.
@@ -23,6 +21,7 @@ Accuracy on training data : 0.8342245989304813
 Accuracy on test data : 0.7619047619047619
 
 ## Outcome: 
-The project is to demonstrate application of ML techniques in analyzing sonar data effectively between rocks and mines.
 
-This project is simply one excellent example of leveraging machine learning for practical classification problems which have real-world implication.
+Accuracy on training data : 0.8342245989304813
+
+Accuracy on test data : 0.7619047619047619
