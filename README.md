@@ -16,10 +16,6 @@ There is a variety of machine learning models. The predictive models developed w
 ## Evaluation: 
 Models have been validated based on the chosen metrics like accuracy, precision, recall, and F1-score.
 
-Accuracy on training data : 0.8342245989304813
-
-Accuracy on test data : 0.7619047619047619
-
 ## Outcome: 
 
 Accuracy on training data : 0.8342245989304813
