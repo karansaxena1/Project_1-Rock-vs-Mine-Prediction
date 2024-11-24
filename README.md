@@ -1,4 +1,4 @@
-# Rock Vs Mine Prediction
+# SonarSense: Rock vs Mine Detection
 
 ![RvsM](https://github.com/user-attachments/assets/f374b373-a511-46b9-b89f-1fddd2ba5e20) 
 
